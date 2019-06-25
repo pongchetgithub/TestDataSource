@@ -1,1 +1,2 @@
 EncryptType
+ encrype1
