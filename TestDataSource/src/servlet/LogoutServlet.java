@@ -1,3 +1,5 @@
-l;ogout
-logouret
-logout
+package servlet;
+
+public class LogoutServlet {
+
+}
