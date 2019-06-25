@@ -1,3 +1,4 @@
 EncryptType
- encrype1
- encrype2
+ encrypt1
+ encrypt2
+ encrypt3
